@@ -1,0 +1,367 @@
+fileFormatVersion: 2
+guid: 4bc0816dd440ab4479de172650d4e5c9
+timeCreated: 1478971719
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Annul_01_Droite
+    100002: Annul_01_Gauche
+    100004: Annul_02_Droite
+    100006: Annul_02_Gauche
+    100008: Annul_03_Droite
+    100010: Annul_03_Gauche
+    100012: Annul_End_Droite
+    100014: Annul_End_Gauche
+    100016: annulaire_01
+    100018: annulaire_01 1
+    100020: annulaire_02
+    100022: annulaire_02 1
+    100024: annulaire_03
+    100026: annulaire_03 1
+    100028: Arbalette
+    100030: Arbalette 1
+    100032: //RootNode
+    100034: Bassin
+    100036: Bassin1
+    100038: Cheville_Droite
+    100040: Cheville_Gauche
+    100042: Clavicules_Droit
+    100044: Clavicules_Droite
+    100046: Clavicules_Gauche
+    100048: Clavicules_Gauche 1
+    100050: Cou
+    100052: Coude_Droit
+    100054: Coude_Droite
+    100056: Coude_Gauche
+    100058: Coude_Gauche 1
+    100060: Ctrl_cord_L
+    100062: Ctrl_cord_R
+    100064: Ctrl_Corde
+    100066: Ctrl_Cordes
+    100068: Ctrl_cordes
+    100070: Ctrl_Poignee
+    100072: Epaule
+    100074: Epaule 1
+    100076: Epaules_Droite
+    100078: Epaules_Gauche
+    100080: Fille_daft
+    100082: Fille_Draft
+    100084: Genoux_Droite
+    100086: Genoux_Gauche
+    100088: Geometrie
+    100090: Hanche_Droite
+    100092: Hanche_Gauche
+    100094: Head_End
+    100096: Index_01
+    100098: Index_01 1
+    100100: Index_01_Droite
+    100102: Index_01_Gauche
+    100104: Index_02_Droite
+    100106: Index_02_Gauche
+    100108: Index_03
+    100110: Index_03 1
+    100112: Index_04
+    100114: Index_04 1
+    100116: Index_Droite
+    100118: Index_End_Droite
+    100120: Index_End_Gauche
+    100122: Index_Gauche
+    100124: J_corde_L_01
+    100126: J_corde_L_02
+    100128: J_corde_milieu
+    100130: J_corde_R_01
+    100132: J_corde_R_02
+    100134: J_Poignee
+    100136: L_Ankle_Pivot
+    100138: L_HeelPeel_pivot
+    100140: L_swivel_Pivot
+    100142: L_Toetap_pivot
+    100144: L_toeTip_Pivot
+    100146: left
+    100148: Left_ankle_IK
+    100150: Left_Ball_IK
+    100152: Left_foot_Ctrl
+    100154: Left_Toe_Ik
+    100156: majeur_01
+    100158: majeur_01 1
+    100160: Majeur_01_Droite
+    100162: Majeur_01_Gauche
+    100164: majeur_02
+    100166: majeur_02 1
+    100168: Majeur_02_Droite
+    100170: Majeur_02_Gauche
+    100172: majeur_03
+    100174: majeur_03 1
+    100176: Majeur_03_Droite
+    100178: Majeur_03_Gauche
+    100180: Majeur_End_Droite
+    100182: Majeur_End_Gauche
+    100184: Neck
+    100186: Petit_01_Droite
+    100188: Petit_01_Gauche
+    100190: Petit_02_Droite
+    100192: Petit_02_Gauche
+    100194: Petit_03
+    100196: Petit_03 1
+    100198: Petit_03_Droite
+    100200: Petit_03_Gauche
+    100202: Petit_04
+    100204: Petit_04 1
+    100206: Petit_05
+    100208: Petit_05 1
+    100210: Petit_End_Droite
+    100212: Petit_End_Gauche
+    100214: Pied_Droite
+    100216: Pied_End_Droite
+    100218: Pied_End_Gauche
+    100220: Pied_Gauche
+    100222: Poignet_Droit
+    100224: Poignet_Droite
+    100226: Poignet_Gauche
+    100228: Poignet_Gauche 1
+    100230: Pouce_01
+    100232: Pouce_01 1
+    100234: Pouce_02
+    100236: Pouce_02 1
+    100238: Pouce_03
+    100240: Pouce_03 1
+    100242: Pouces_01_Droite
+    100244: Pouces_01_Gauche
+    100246: Pouces_02_Droite
+    100248: Pouces_02_Gauche
+    100250: Pouces_03_Droite
+    100252: Pouces_03_Gauche
+    100254: Pouces_End_Droite
+    100256: Pouces_End_Gauche
+    100258: R_Ankle_pivot
+    100260: R_HeelPeel_pivot
+    100262: R_Swivel_pivot
+    100264: R_ToeTip_pivot
+    100266: Right_Ankle_Ik
+    100268: Right_Ball_Ik
+    100270: Right_foot_Ctrl
+    100272: Right_TeoTap_pivot
+    100274: Right_Toe_Ik
+    100276: Spline
+    100278: Spline_01
+    100280: SPline_02
+    100282: Spline_02
+    100284: Spline_03
+    100286: Spline_03 1
+    100288: Spline_04
+    400000: Annul_01_Droite
+    400002: Annul_01_Gauche
+    400004: Annul_02_Droite
+    400006: Annul_02_Gauche
+    400008: Annul_03_Droite
+    400010: Annul_03_Gauche
+    400012: Annul_End_Droite
+    400014: Annul_End_Gauche
+    400016: annulaire_01
+    400018: annulaire_01 1
+    400020: annulaire_02
+    400022: annulaire_02 1
+    400024: annulaire_03
+    400026: annulaire_03 1
+    400028: Arbalette
+    400030: Arbalette 1
+    400032: //RootNode
+    400034: Bassin
+    400036: Bassin1
+    400038: Cheville_Droite
+    400040: Cheville_Gauche
+    400042: Clavicules_Droit
+    400044: Clavicules_Droite
+    400046: Clavicules_Gauche
+    400048: Clavicules_Gauche 1
+    400050: Cou
+    400052: Coude_Droit
+    400054: Coude_Droite
+    400056: Coude_Gauche
+    400058: Coude_Gauche 1
+    400060: Ctrl_cord_L
+    400062: Ctrl_cord_R
+    400064: Ctrl_Corde
+    400066: Ctrl_Cordes
+    400068: Ctrl_cordes
+    400070: Ctrl_Poignee
+    400072: Epaule
+    400074: Epaule 1
+    400076: Epaules_Droite
+    400078: Epaules_Gauche
+    400080: Fille_daft
+    400082: Fille_Draft
+    400084: Genoux_Droite
+    400086: Genoux_Gauche
+    400088: Geometrie
+    400090: Hanche_Droite
+    400092: Hanche_Gauche
+    400094: Head_End
+    400096: Index_01
+    400098: Index_01 1
+    400100: Index_01_Droite
+    400102: Index_01_Gauche
+    400104: Index_02_Droite
+    400106: Index_02_Gauche
+    400108: Index_03
+    400110: Index_03 1
+    400112: Index_04
+    400114: Index_04 1
+    400116: Index_Droite
+    400118: Index_End_Droite
+    400120: Index_End_Gauche
+    400122: Index_Gauche
+    400124: J_corde_L_01
+    400126: J_corde_L_02
+    400128: J_corde_milieu
+    400130: J_corde_R_01
+    400132: J_corde_R_02
+    400134: J_Poignee
+    400136: L_Ankle_Pivot
+    400138: L_HeelPeel_pivot
+    400140: L_swivel_Pivot
+    400142: L_Toetap_pivot
+    400144: L_toeTip_Pivot
+    400146: left
+    400148: Left_ankle_IK
+    400150: Left_Ball_IK
+    400152: Left_foot_Ctrl
+    400154: Left_Toe_Ik
+    400156: majeur_01
+    400158: majeur_01 1
+    400160: Majeur_01_Droite
+    400162: Majeur_01_Gauche
+    400164: majeur_02
+    400166: majeur_02 1
+    400168: Majeur_02_Droite
+    400170: Majeur_02_Gauche
+    400172: majeur_03
+    400174: majeur_03 1
+    400176: Majeur_03_Droite
+    400178: Majeur_03_Gauche
+    400180: Majeur_End_Droite
+    400182: Majeur_End_Gauche
+    400184: Neck
+    400186: Petit_01_Droite
+    400188: Petit_01_Gauche
+    400190: Petit_02_Droite
+    400192: Petit_02_Gauche
+    400194: Petit_03
+    400196: Petit_03 1
+    400198: Petit_03_Droite
+    400200: Petit_03_Gauche
+    400202: Petit_04
+    400204: Petit_04 1
+    400206: Petit_05
+    400208: Petit_05 1
+    400210: Petit_End_Droite
+    400212: Petit_End_Gauche
+    400214: Pied_Droite
+    400216: Pied_End_Droite
+    400218: Pied_End_Gauche
+    400220: Pied_Gauche
+    400222: Poignet_Droit
+    400224: Poignet_Droite
+    400226: Poignet_Gauche
+    400228: Poignet_Gauche 1
+    400230: Pouce_01
+    400232: Pouce_01 1
+    400234: Pouce_02
+    400236: Pouce_02 1
+    400238: Pouce_03
+    400240: Pouce_03 1
+    400242: Pouces_01_Droite
+    400244: Pouces_01_Gauche
+    400246: Pouces_02_Droite
+    400248: Pouces_02_Gauche
+    400250: Pouces_03_Droite
+    400252: Pouces_03_Gauche
+    400254: Pouces_End_Droite
+    400256: Pouces_End_Gauche
+    400258: R_Ankle_pivot
+    400260: R_HeelPeel_pivot
+    400262: R_Swivel_pivot
+    400264: R_ToeTip_pivot
+    400266: Right_Ankle_Ik
+    400268: Right_Ball_Ik
+    400270: Right_foot_Ctrl
+    400272: Right_TeoTap_pivot
+    400274: Right_Toe_Ik
+    400276: Spline
+    400278: Spline_01
+    400280: SPline_02
+    400282: Spline_02
+    400284: Spline_03
+    400286: Spline_03 1
+    400288: Spline_04
+    4300000: Fille_Draft
+    4300002: Arbalette
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Arbalette 1
+    13700002: Fille_Draft
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

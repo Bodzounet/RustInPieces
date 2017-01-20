@@ -1,0 +1,2922 @@
+fileFormatVersion: 2
+guid: c07b50efc1779b641b94b3fc84b132e3
+timeCreated: 1455299274
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: W2_UI_SpriteSheet_0
+    21300002: W2_UI_SpriteSheet_1
+    21300004: W2_UI_SpriteSheet_2
+    21300006: W2_UI_SpriteSheet_3
+    21300008: W2_UI_SpriteSheet_4
+    21300010: W2_UI_SpriteSheet_5
+    21300012: W2_UI_SpriteSheet_6
+    21300014: W2_UI_SpriteSheet_7
+    21300016: W2_UI_SpriteSheet_8
+    21300018: W2_UI_SpriteSheet_9
+    21300020: W2_UI_SpriteSheet_10
+    21300022: W2_UI_SpriteSheet_11
+    21300024: W2_UI_SpriteSheet_12
+    21300026: W2_UI_SpriteSheet_13
+    21300028: W2_UI_SpriteSheet_14
+    21300030: W2_UI_SpriteSheet_15
+    21300032: W2_UI_SpriteSheet_16
+    21300034: W2_UI_SpriteSheet_17
+    21300036: W2_UI_SpriteSheet_18
+    21300038: W2_UI_SpriteSheet_19
+    21300040: W2_UI_SpriteSheet_20
+    21300042: W2_UI_SpriteSheet_21
+    21300044: W2_UI_SpriteSheet_22
+    21300046: W2_UI_SpriteSheet_23
+    21300048: W2_UI_SpriteSheet_24
+    21300050: W2_UI_SpriteSheet_25
+    21300052: W2_UI_SpriteSheet_26
+    21300054: W2_UI_SpriteSheet_27
+    21300056: W2_UI_SpriteSheet_28
+    21300058: W2_UI_SpriteSheet_29
+    21300060: W2_UI_SpriteSheet_30
+    21300062: W2_UI_SpriteSheet_31
+    21300064: W2_UI_SpriteSheet_32
+    21300066: W2_UI_SpriteSheet_33
+    21300068: W2_UI_SpriteSheet_34
+    21300070: W2_UI_SpriteSheet_35
+    21300072: W2_UI_SpriteSheet_36
+    21300074: W2_UI_SpriteSheet_37
+    21300076: W2_UI_SpriteSheet_38
+    21300078: W2_UI_SpriteSheet_39
+    21300080: W2_UI_SpriteSheet_40
+    21300082: W2_UI_SpriteSheet_41
+    21300084: W2_UI_SpriteSheet_42
+    21300086: W2_UI_SpriteSheet_43
+    21300088: W2_UI_SpriteSheet_44
+    21300090: W2_UI_SpriteSheet_45
+    21300092: W2_UI_SpriteSheet_46
+    21300094: W2_UI_SpriteSheet_47
+    21300096: W2_UI_SpriteSheet_48
+    21300098: W2_UI_SpriteSheet_49
+    21300100: W2_UI_SpriteSheet_50
+    21300102: W2_UI_SpriteSheet_51
+    21300104: W2_UI_SpriteSheet_52
+    21300106: W2_UI_SpriteSheet_53
+    21300108: W2_UI_SpriteSheet_54
+    21300110: W2_UI_SpriteSheet_55
+    21300112: W2_UI_SpriteSheet_56
+    21300114: W2_UI_SpriteSheet_57
+    21300116: W2_UI_SpriteSheet_58
+    21300118: W2_UI_SpriteSheet_59
+    21300120: W2_UI_SpriteSheet_60
+    21300122: W2_UI_SpriteSheet_61
+    21300124: W2_UI_SpriteSheet_62
+    21300126: W2_UI_SpriteSheet_63
+    21300128: W2_UI_SpriteSheet_64
+    21300130: W2_UI_SpriteSheet_65
+    21300132: W2_UI_SpriteSheet_66
+    21300134: W2_UI_SpriteSheet_67
+    21300136: W2_UI_SpriteSheet_68
+    21300138: W2_UI_SpriteSheet_69
+    21300140: W2_UI_SpriteSheet_70
+    21300142: W2_UI_SpriteSheet_71
+    21300144: W2_UI_SpriteSheet_72
+    21300146: W2_UI_SpriteSheet_73
+    21300148: W2_UI_SpriteSheet_74
+    21300150: W2_UI_SpriteSheet_75
+    21300152: W2_UI_SpriteSheet_76
+    21300154: W2_UI_SpriteSheet_77
+    21300156: W2_UI_SpriteSheet_78
+    21300158: W2_UI_SpriteSheet_79
+    21300160: W2_UI_SpriteSheet_80
+    21300162: W2_UI_SpriteSheet_81
+    21300164: W2_UI_SpriteSheet_82
+    21300166: W2_UI_SpriteSheet_83
+    21300168: W2_UI_SpriteSheet_84
+    21300170: W2_UI_SpriteSheet_85
+    21300172: W2_UI_SpriteSheet_86
+    21300174: W2_UI_SpriteSheet_87
+    21300176: W2_UI_SpriteSheet_88
+    21300178: W2_UI_SpriteSheet_89
+    21300180: W2_UI_SpriteSheet_90
+    21300182: W2_UI_SpriteSheet_91
+    21300184: W2_UI_SpriteSheet_92
+    21300186: W2_UI_SpriteSheet_93
+    21300188: W2_UI_SpriteSheet_94
+    21300190: W2_UI_SpriteSheet_95
+    21300192: W2_UI_SpriteSheet_96
+    21300194: W2_UI_SpriteSheet_97
+    21300196: W2_UI_SpriteSheet_98
+    21300198: W2_UI_SpriteSheet_99
+    21300200: W2_UI_SpriteSheet_100
+    21300202: W2_UI_SpriteSheet_101
+    21300204: W2_UI_SpriteSheet_102
+    21300206: W2_UI_SpriteSheet_103
+    21300208: W2_UI_SpriteSheet_104
+    21300210: W2_UI_SpriteSheet_105
+    21300212: W2_UI_SpriteSheet_106
+    21300214: W2_UI_SpriteSheet_107
+    21300216: W2_UI_SpriteSheet_108
+    21300218: W2_UI_SpriteSheet_109
+    21300220: W2_UI_SpriteSheet_110
+    21300222: W2_UI_SpriteSheet_111
+    21300224: W2_UI_SpriteSheet_112
+    21300226: W2_UI_SpriteSheet_113
+    21300228: W2_UI_SpriteSheet_114
+    21300230: W2_UI_SpriteSheet_115
+    21300232: W2_UI_SpriteSheet_116
+    21300234: W2_UI_SpriteSheet_117
+    21300236: W2_UI_SpriteSheet_118
+    21300238: W2_UI_SpriteSheet_119
+    21300240: W2_UI_SpriteSheet_120
+    21300242: W2_UI_SpriteSheet_121
+    21300244: W2_UI_SpriteSheet_122
+    21300246: W2_UI_SpriteSheet_123
+    21300248: W2_UI_SpriteSheet_124
+    21300250: W2_UI_SpriteSheet_125
+    21300252: W2_UI_SpriteSheet_126
+    21300254: W2_UI_SpriteSheet_127
+    21300256: W2_UI_SpriteSheet_128
+    21300258: W2_UI_SpriteSheet_129
+    21300260: W2_UI_SpriteSheet_130
+    21300262: W2_UI_SpriteSheet_131
+    21300264: W2_UI_SpriteSheet_132
+    21300266: W2_UI_SpriteSheet_133
+    21300268: W2_UI_SpriteSheet_134
+    21300270: W2_UI_SpriteSheet_135
+    21300272: W2_UI_SpriteSheet_136
+    21300274: W2_UI_SpriteSheet_137
+    21300276: W2_UI_SpriteSheet_138
+    21300278: W2_UI_SpriteSheet_139
+    21300280: W2_UI_SpriteSheet_140
+    21300282: W2_UI_SpriteSheet_141
+    21300284: W2_UI_SpriteSheet_142
+    21300286: W2_UI_SpriteSheet_143
+    21300288: W2_UI_SpriteSheet_144
+    21300290: W2_UI_SpriteSheet_145
+    21300292: W2_UI_SpriteSheet_146
+    21300294: W2_UI_SpriteSheet_147
+    21300296: W2_UI_SpriteSheet_148
+    21300298: W2_UI_SpriteSheet_149
+    21300300: W2_UI_SpriteSheet_150
+    21300302: W2_UI_SpriteSheet_151
+    21300304: W2_UI_SpriteSheet_152
+    21300306: W2_UI_SpriteSheet_153
+    21300308: W2_UI_SpriteSheet_154
+    21300310: W2_UI_SpriteSheet_155
+    21300312: W2_UI_SpriteSheet_156
+    21300314: W2_UI_SpriteSheet_157
+    21300316: W2_UI_SpriteSheet_158
+    21300318: W2_UI_SpriteSheet_159
+    21300320: W2_UI_SpriteSheet_160
+    21300322: W2_UI_SpriteSheet_161
+    21300324: W2_UI_SpriteSheet_162
+    21300326: W2_UI_SpriteSheet_163
+    21300328: W2_UI_SpriteSheet_164
+    21300330: W2_UI_SpriteSheet_165
+    21300332: W2_UI_SpriteSheet_166
+    21300334: W2_UI_SpriteSheet_167
+    21300336: W2_UI_SpriteSheet_168
+    21300338: W2_UI_SpriteSheet_169
+    21300340: W2_UI_SpriteSheet_170
+    21300342: W2_UI_SpriteSheet_171
+    21300344: W2_UI_SpriteSheet_172
+    21300346: W2_UI_SpriteSheet_173
+    21300348: W2_UI_SpriteSheet_174
+    21300350: W2_UI_SpriteSheet_175
+    21300352: W2_UI_SpriteSheet_176
+    21300354: W2_UI_SpriteSheet_177
+    21300356: W2_UI_SpriteSheet_178
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: W2_UI_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 702
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 702
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 702
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 702
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 702
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 702
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 702
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 702
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 702
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 702
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 661
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 661
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 661
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 661
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 661
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 661
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 661
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 661
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 661
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 661
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 620
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 620
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 620
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 620
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 620
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 620
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 620
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 620
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 620
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 620
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 579
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 579
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 579
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 579
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 579
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 579
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 579
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 579
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 579
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 579
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 538
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 538
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 538
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 538
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 538
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 538
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 538
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 538
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 538
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 538
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 497
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 497
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 497
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 497
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 497
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 497
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 497
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 497
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 497
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 497
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 456
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 456
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 456
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 456
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 456
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 456
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 456
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 456
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 456
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_69
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 456
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_70
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 415
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_71
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 415
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_72
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 415
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_73
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 415
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_74
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 415
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_75
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 415
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_76
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 415
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_77
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 415
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_78
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 415
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_79
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 415
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_80
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 374
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_81
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 374
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_82
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 374
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_83
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 374
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_84
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 374
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_85
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 374
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 19}
+        - {x: -22.5, y: -19}
+        - {x: 22.5, y: -19}
+        - {x: 22.5, y: 19}
+    - name: W2_UI_SpriteSheet_86
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 374
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_87
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 374
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_88
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 374
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_89
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 374
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_90
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 333
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_91
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 333
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_92
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 333
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_93
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 333
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_94
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 333
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_95
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 333
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_96
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 333
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_97
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 333
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_98
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 333
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_99
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 333
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_100
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 292
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_101
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 292
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_102
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 292
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_103
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 292
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_104
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 292
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_105
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 292
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_106
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 292
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_107
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 292
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_108
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 292
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_109
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 292
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_110
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 251
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_111
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 251
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_112
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 251
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_113
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 251
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_114
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 251
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_115
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 251
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_116
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 251
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_117
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 251
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_118
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 251
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_119
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 251
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_120
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 210
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_121
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 210
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_122
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 210
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_123
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 210
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_124
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 210
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_125
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 210
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_126
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 210
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_127
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 210
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_128
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 210
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_129
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 210
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_130
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 169
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_131
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 169
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_132
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 169
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_133
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 169
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_134
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 169
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_135
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 169
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_136
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 169
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_137
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 169
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_138
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 169
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_139
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 169
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_140
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 128
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_141
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 128
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_142
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 128
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_143
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 128
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_144
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 128
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_145
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 128
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_146
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 128
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_147
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 128
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_148
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 128
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_149
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 128
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_150
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 87
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_151
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 87
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_152
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 87
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_153
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 87
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_154
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 87
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_155
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 87
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_156
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 87
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_157
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 87
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_158
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 87
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_159
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 87
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_160
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 46
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_161
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 46
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_162
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 46
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_163
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 46
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_164
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 46
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_165
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 46
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_166
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 46
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_167
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 46
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_168
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 46
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_169
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 46
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_170
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 5
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_171
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 5
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_172
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 5
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_173
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 5
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_174
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 5
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_175
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 5
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_176
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 5
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_177
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 5
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 23, y: 19}
+    - name: W2_UI_SpriteSheet_178
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 8
+        width: 90
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45, y: 16}
+        - {x: 6, y: 16}
+        - {x: -45, y: 10}
+        - {x: -45, y: -16}
+        - {x: 45, y: -16}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,257 @@
+fileFormatVersion: 2
+guid: f307febfe23337b448a15636d1c1cc9f
+timeCreated: 1479999341
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Base_head
+    100002: Chapeau
+    100004: Controle
+    100006: Cou
+    100008: Coude_D
+    100010: Coude_Droite
+    100012: Coude_G
+    100014: Coude_Gauche
+    100016: Ctrl_Pelvis
+    100018: epaule_D
+    100020: Epaule_Droite
+    100022: Epaule_G
+    100024: Epaule_Gauche
+    100026: Genoux_D
+    100028: Genoux_Droite
+    100030: Genoux_G
+    100032: Genoux_Gauche
+    100034: Geometrie
+    100036: Jambes_D
+    100038: Jambes_Droite
+    100040: Jambes_G
+    100042: Jambes_Gauche
+    100044: Main_D
+    100046: Main_Droite
+    100048: Main_G
+    100050: Main_Gauche
+    100052: //RootNode
+    100054: Pelvis
+    100056: Pied_D
+    100058: Pied_Droite
+    100060: Pied_G
+    100062: Pied_Gauche
+    100064: Rig
+    100066: Robot_Minion
+    100068: Spline_01
+    100070: Spline_02
+    100072: Tete
+    100074: Up_Head_End
+    400000: Base_head
+    400002: Chapeau
+    400004: Controle
+    400006: Cou
+    400008: Coude_D
+    400010: Coude_Droite
+    400012: Coude_G
+    400014: Coude_Gauche
+    400016: Ctrl_Pelvis
+    400018: epaule_D
+    400020: Epaule_Droite
+    400022: Epaule_G
+    400024: Epaule_Gauche
+    400026: Genoux_D
+    400028: Genoux_Droite
+    400030: Genoux_G
+    400032: Genoux_Gauche
+    400034: Geometrie
+    400036: Jambes_D
+    400038: Jambes_Droite
+    400040: Jambes_G
+    400042: Jambes_Gauche
+    400044: Main_D
+    400046: Main_Droite
+    400048: Main_G
+    400050: Main_Gauche
+    400052: //RootNode
+    400054: Pelvis
+    400056: Pied_D
+    400058: Pied_Droite
+    400060: Pied_G
+    400062: Pied_Gauche
+    400064: Rig
+    400066: Robot_Minion
+    400068: Spline_01
+    400070: Spline_02
+    400072: Tete
+    400074: Up_Head_End
+    4300000: Chapeau
+    4300002: Robot_Minion
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Chapeau
+    13700002: Robot_Minion
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Controle
+        weight: 1
+      - path: Controle/Ctrl_Pelvis
+        weight: 1
+      - path: Controle/Ctrl_Pelvis/epaule_D
+        weight: 1
+      - path: Controle/Ctrl_Pelvis/epaule_D/Coude_D
+        weight: 1
+      - path: Controle/Ctrl_Pelvis/epaule_D/Coude_D/Main_D
+        weight: 1
+      - path: Controle/Ctrl_Pelvis/Epaule_G
+        weight: 1
+      - path: Controle/Ctrl_Pelvis/Epaule_G/Coude_G
+        weight: 1
+      - path: Controle/Ctrl_Pelvis/Epaule_G/Coude_G/Main_G
+        weight: 1
+      - path: Controle/Ctrl_Pelvis/Tete
+        weight: 1
+      - path: Controle/Jambes_D
+        weight: 1
+      - path: Controle/Jambes_D/Genoux_D
+        weight: 1
+      - path: Controle/Jambes_D/Genoux_D/Pied_D
+        weight: 1
+      - path: Controle/Jambes_G
+        weight: 1
+      - path: Controle/Jambes_G/Genoux_G
+        weight: 1
+      - path: Controle/Jambes_G/Genoux_G/Pied_G
+        weight: 1
+      - path: Geometrie
+        weight: 1
+      - path: Geometrie/Chapeau
+        weight: 1
+      - path: Geometrie/Robot_Minion
+        weight: 1
+      - path: Rig
+        weight: 1
+      - path: Rig/Pelvis
+        weight: 1
+      - path: Rig/Pelvis/Jambes_Droite
+        weight: 1
+      - path: Rig/Pelvis/Jambes_Droite/Genoux_Droite
+        weight: 1
+      - path: Rig/Pelvis/Jambes_Droite/Genoux_Droite/Pied_Droite
+        weight: 1
+      - path: Rig/Pelvis/Jambes_Gauche
+        weight: 1
+      - path: Rig/Pelvis/Jambes_Gauche/Genoux_Gauche
+        weight: 1
+      - path: Rig/Pelvis/Jambes_Gauche/Genoux_Gauche/Pied_Gauche
+        weight: 1
+      - path: Rig/Pelvis/Spline_01
+        weight: 1
+      - path: Rig/Pelvis/Spline_01/Spline_02
+        weight: 1
+      - path: Rig/Pelvis/Spline_01/Spline_02/Cou
+        weight: 1
+      - path: Rig/Pelvis/Spline_01/Spline_02/Cou/Base_head
+        weight: 1
+      - path: Rig/Pelvis/Spline_01/Spline_02/Cou/Base_head/Up_Head_End
+        weight: 1
+      - path: Rig/Pelvis/Spline_01/Spline_02/Epaule_Droite
+        weight: 1
+      - path: Rig/Pelvis/Spline_01/Spline_02/Epaule_Droite/Coude_Droite
+        weight: 1
+      - path: Rig/Pelvis/Spline_01/Spline_02/Epaule_Droite/Coude_Droite/Main_Droite
+        weight: 1
+      - path: Rig/Pelvis/Spline_01/Spline_02/Epaule_Gauche
+        weight: 1
+      - path: Rig/Pelvis/Spline_01/Spline_02/Epaule_Gauche/Coude_Gauche
+        weight: 1
+      - path: Rig/Pelvis/Spline_01/Spline_02/Epaule_Gauche/Coude_Gauche/Main_Gauche
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

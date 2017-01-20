@@ -1,0 +1,656 @@
+fileFormatVersion: 2
+guid: e39f2c66503e3414ab360766ce5307ba
+timeCreated: 1474467232
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: arti_Pouce_Droite
+    100002: arti_Pouce_Gauche
+    100004: Ball_IK_left
+    100006: Ball_Ik_Right
+    100008: Bassin
+    100010: Bassin_02
+    100012: baton
+    100014: Cape
+    100016: Cape_01
+    100018: Cape_02
+    100020: Cape_03
+    100022: Cape_04
+    100024: Cape_05
+    100026: Cape_06
+    100028: Cape_07
+    100030: Cape_08
+    100032: cheville_ankle_IK
+    100034: cheville_Droite
+    100036: cheville_Gauche
+    100038: Cheville_IK_Right
+    100040: Colonne_01
+    100042: Colonne_02
+    100044: Colonne_03
+    100046: Colonne_04
+    100048: Coude_Droit
+    100050: Coude_Droite
+    100052: Coude_Gauche
+    100054: Coudes_Gauche
+    100056: Ctrl_Baton
+    100058: Ctrl_Cape_01
+    100060: Ctrl_Cape_02
+    100062: Ctrl_Cape_03
+    100064: Ctrl_Cape_04
+    100066: Ctrl_Cape_05
+    100068: Ctrl_Cape_06
+    100070: Ctrl_Cou
+    100072: Ctrl_Genoux_Droit
+    100074: CTRl_Main
+    100076: Ctrl_Pelvis
+    100078: Ctrl_Pied_Droit
+    100080: Ctrl_Pied_Gauche
+    100082: Ctrl_Spline_01
+    100084: Ctrl_Spline_02
+    100086: //RootNode
+    100088: ElectroCasteur_Scale_Grp
+    100090: Epaule_Droite
+    100092: Epaule_Droite 1
+    100094: Epaule_Gauche
+    100096: Epaule_Gauche 1
+    100098: epingle
+    100100: Genoux_Droite
+    100102: Genoux_Gauche
+    100104: Geometrie
+    100106: Heel_Pivot_Right
+    100108: Index__arti_Droite
+    100110: Index__arti_Gauche
+    100112: Index_Droit
+    100114: Index_Droit_End
+    100116: Index_Droite
+    100118: Index_Droite_End
+    100120: Index_Gauche
+    100122: Index_Gauche1
+    100124: Index_Gauche_End
+    100126: Index_Gauche_End2
+    100128: Jambes_Droite
+    100130: Jambes_Gauche
+    100132: L_HeelPeel_Pivot
+    100134: L_Swivel_pivot
+    100136: left
+    100138: Left_Ankle_pivot
+    100140: Left_knee_Ctrl
+    100142: Left_ToePivot
+    100144: Left_ToeTap_Pivot
+    100146: Majeur_art_Droite
+    100148: Majeur_art_Gauche
+    100150: Majeur_Droit
+    100152: Majeur_Droit_End
+    100154: Majeur_Droite
+    100156: Majeur_Droite_End
+    100158: Majeur_Gauche
+    100160: Majeur_Gauche 1
+    100162: Majeur_Gauche_End
+    100164: Majeur_Gauche_End 1
+    100166: Membres
+    100168: Petit_art_Droite
+    100170: Petit_art_Gauche
+    100172: Petit_Droit
+    100174: Petit_Droit_ENd
+    100176: Petit_Droite
+    100178: Petit_Droite_End
+    100180: Petit_Gauche
+    100182: Petit_Gauche 1
+    100184: Petit_Gauche_ENd
+    100186: Petit_Gauche_End
+    100188: Pied_Derriere_Droite
+    100190: Pied_Derriere_Gauche
+    100192: Pied_Droite
+    100194: Pied_Droite_End
+    100196: Pied_Gauche
+    100198: Pied_Gauche_End
+    100200: Plastron_electro
+    100202: Poignet_Droit
+    100204: Poignet_Droite
+    100206: Poignet_Gauche
+    100208: Poignet_Gauche 1
+    100210: Pouce_Droit
+    100212: Pouce_Droite
+    100214: Pouce_Gauche
+    100216: Pouce_Gauche 1
+    100218: Pouces_Droit_End
+    100220: Pouces_Droite_End
+    100222: Pouces_Gauche_End
+    100224: Pouces_Gauche_End 1
+    100226: Right_Ankle_Pivot
+    100228: Right_Toe_Pivot
+    100230: Right_ToeTap_Pivot
+    100232: Skeleton
+    100234: Swivel_Pivot_Right
+    100236: tete
+    100238: Tete_Base
+    100240: Tete_End
+    100242: Tissu_devant
+    100244: Tissu_droite
+    100246: Tissu_droite1
+    100248: Toe_IK_left
+    100250: Toe_IK_Right
+    400000: arti_Pouce_Droite
+    400002: arti_Pouce_Gauche
+    400004: Ball_IK_left
+    400006: Ball_Ik_Right
+    400008: Bassin
+    400010: Bassin_02
+    400012: baton
+    400014: Cape
+    400016: Cape_01
+    400018: Cape_02
+    400020: Cape_03
+    400022: Cape_04
+    400024: Cape_05
+    400026: Cape_06
+    400028: Cape_07
+    400030: Cape_08
+    400032: cheville_ankle_IK
+    400034: cheville_Droite
+    400036: cheville_Gauche
+    400038: Cheville_IK_Right
+    400040: Colonne_01
+    400042: Colonne_02
+    400044: Colonne_03
+    400046: Colonne_04
+    400048: Coude_Droit
+    400050: Coude_Droite
+    400052: Coude_Gauche
+    400054: Coudes_Gauche
+    400056: Ctrl_Baton
+    400058: Ctrl_Cape_01
+    400060: Ctrl_Cape_02
+    400062: Ctrl_Cape_03
+    400064: Ctrl_Cape_04
+    400066: Ctrl_Cape_05
+    400068: Ctrl_Cape_06
+    400070: Ctrl_Cou
+    400072: Ctrl_Genoux_Droit
+    400074: CTRl_Main
+    400076: Ctrl_Pelvis
+    400078: Ctrl_Pied_Droit
+    400080: Ctrl_Pied_Gauche
+    400082: Ctrl_Spline_01
+    400084: Ctrl_Spline_02
+    400086: //RootNode
+    400088: ElectroCasteur_Scale_Grp
+    400090: Epaule_Droite
+    400092: Epaule_Droite 1
+    400094: Epaule_Gauche
+    400096: Epaule_Gauche 1
+    400098: epingle
+    400100: Genoux_Droite
+    400102: Genoux_Gauche
+    400104: Geometrie
+    400106: Heel_Pivot_Right
+    400108: Index__arti_Droite
+    400110: Index__arti_Gauche
+    400112: Index_Droit
+    400114: Index_Droit_End
+    400116: Index_Droite
+    400118: Index_Droite_End
+    400120: Index_Gauche
+    400122: Index_Gauche1
+    400124: Index_Gauche_End
+    400126: Index_Gauche_End2
+    400128: Jambes_Droite
+    400130: Jambes_Gauche
+    400132: L_HeelPeel_Pivot
+    400134: L_Swivel_pivot
+    400136: left
+    400138: Left_Ankle_pivot
+    400140: Left_knee_Ctrl
+    400142: Left_ToePivot
+    400144: Left_ToeTap_Pivot
+    400146: Majeur_art_Droite
+    400148: Majeur_art_Gauche
+    400150: Majeur_Droit
+    400152: Majeur_Droit_End
+    400154: Majeur_Droite
+    400156: Majeur_Droite_End
+    400158: Majeur_Gauche
+    400160: Majeur_Gauche 1
+    400162: Majeur_Gauche_End
+    400164: Majeur_Gauche_End 1
+    400166: Membres
+    400168: Petit_art_Droite
+    400170: Petit_art_Gauche
+    400172: Petit_Droit
+    400174: Petit_Droit_ENd
+    400176: Petit_Droite
+    400178: Petit_Droite_End
+    400180: Petit_Gauche
+    400182: Petit_Gauche 1
+    400184: Petit_Gauche_ENd
+    400186: Petit_Gauche_End
+    400188: Pied_Derriere_Droite
+    400190: Pied_Derriere_Gauche
+    400192: Pied_Droite
+    400194: Pied_Droite_End
+    400196: Pied_Gauche
+    400198: Pied_Gauche_End
+    400200: Plastron_electro
+    400202: Poignet_Droit
+    400204: Poignet_Droite
+    400206: Poignet_Gauche
+    400208: Poignet_Gauche 1
+    400210: Pouce_Droit
+    400212: Pouce_Droite
+    400214: Pouce_Gauche
+    400216: Pouce_Gauche 1
+    400218: Pouces_Droit_End
+    400220: Pouces_Droite_End
+    400222: Pouces_Gauche_End
+    400224: Pouces_Gauche_End 1
+    400226: Right_Ankle_Pivot
+    400228: Right_Toe_Pivot
+    400230: Right_ToeTap_Pivot
+    400232: Skeleton
+    400234: Swivel_Pivot_Right
+    400236: tete
+    400238: Tete_Base
+    400240: Tete_End
+    400242: Tissu_devant
+    400244: Tissu_droite
+    400246: Tissu_droite1
+    400248: Toe_IK_left
+    400250: Toe_IK_Right
+    2300000: baton
+    3300000: baton
+    4300000: Tissu_devant
+    4300002: tete
+    4300004: Tissu_droite
+    4300006: baton
+    4300008: Cape
+    4300010: epingle
+    4300012: Plastron_electro
+    4300014: Tissu_droite1
+    4300016: Membres
+    7400000: Walk
+    9500000: //RootNode
+    13700000: Cape
+    13700002: epingle
+    13700004: Membres
+    13700006: Plastron_electro
+    13700008: tete
+    13700010: Tissu_devant
+    13700012: Tissu_droite
+    13700014: Tissu_droite1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/CTRl_Main
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/CTRl_Main/Ctrl_Baton
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/CTRl_Main/Ctrl_Cape_01
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/CTRl_Main/Ctrl_Cape_01/Ctrl_Cape_02
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/CTRl_Main/Ctrl_Cape_01/Ctrl_Cape_02/Ctrl_Cape_03
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/CTRl_Main/Ctrl_Cape_01/Ctrl_Cape_02/Ctrl_Cape_03/Ctrl_Cape_04
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/CTRl_Main/Ctrl_Cape_01/Ctrl_Cape_02/Ctrl_Cape_03/Ctrl_Cape_04/Ctrl_Cape_05
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/CTRl_Main/Ctrl_Cape_01/Ctrl_Cape_02/Ctrl_Cape_03/Ctrl_Cape_04/Ctrl_Cape_05/Ctrl_Cape_06
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/CTRl_Main/Ctrl_Pelvis
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/CTRl_Main/Ctrl_Pelvis/Ctrl_Spline_01
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/CTRl_Main/Ctrl_Pelvis/Ctrl_Spline_01/Ctrl_Spline_02
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/CTRl_Main/Ctrl_Pelvis/Ctrl_Spline_01/Ctrl_Spline_02/Ctrl_Cou
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/CTRl_Main/Ctrl_Pelvis/Ctrl_Spline_01/Ctrl_Spline_02/Epaule_Droite
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/CTRl_Main/Ctrl_Pelvis/Ctrl_Spline_01/Ctrl_Spline_02/Epaule_Droite/Coude_Droit
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/CTRl_Main/Ctrl_Pelvis/Ctrl_Spline_01/Ctrl_Spline_02/Epaule_Droite/Coude_Droit/Poignet_Droit
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/CTRl_Main/Ctrl_Pelvis/Ctrl_Spline_01/Ctrl_Spline_02/Epaule_Droite/Coude_Droit/Poignet_Droit/Index_Droit
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/CTRl_Main/Ctrl_Pelvis/Ctrl_Spline_01/Ctrl_Spline_02/Epaule_Droite/Coude_Droit/Poignet_Droit/Index_Droit/Index_Droit_End
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/CTRl_Main/Ctrl_Pelvis/Ctrl_Spline_01/Ctrl_Spline_02/Epaule_Droite/Coude_Droit/Poignet_Droit/Majeur_Droit
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/CTRl_Main/Ctrl_Pelvis/Ctrl_Spline_01/Ctrl_Spline_02/Epaule_Droite/Coude_Droit/Poignet_Droit/Majeur_Droit/Majeur_Droit_End
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/CTRl_Main/Ctrl_Pelvis/Ctrl_Spline_01/Ctrl_Spline_02/Epaule_Droite/Coude_Droit/Poignet_Droit/Petit_Droit
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/CTRl_Main/Ctrl_Pelvis/Ctrl_Spline_01/Ctrl_Spline_02/Epaule_Droite/Coude_Droit/Poignet_Droit/Petit_Droit/Petit_Droit_ENd
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/CTRl_Main/Ctrl_Pelvis/Ctrl_Spline_01/Ctrl_Spline_02/Epaule_Droite/Coude_Droit/Poignet_Droit/Pouce_Droit
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/CTRl_Main/Ctrl_Pelvis/Ctrl_Spline_01/Ctrl_Spline_02/Epaule_Droite/Coude_Droit/Poignet_Droit/Pouce_Droit/Pouces_Droit_End
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/CTRl_Main/Ctrl_Pelvis/Ctrl_Spline_01/Ctrl_Spline_02/Epaule_Gauche
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/CTRl_Main/Ctrl_Pelvis/Ctrl_Spline_01/Ctrl_Spline_02/Epaule_Gauche/Coudes_Gauche
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/CTRl_Main/Ctrl_Pelvis/Ctrl_Spline_01/Ctrl_Spline_02/Epaule_Gauche/Coudes_Gauche/Poignet_Gauche
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/CTRl_Main/Ctrl_Pelvis/Ctrl_Spline_01/Ctrl_Spline_02/Epaule_Gauche/Coudes_Gauche/Poignet_Gauche/Index_Gauche1
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/CTRl_Main/Ctrl_Pelvis/Ctrl_Spline_01/Ctrl_Spline_02/Epaule_Gauche/Coudes_Gauche/Poignet_Gauche/Index_Gauche1/Index_Gauche_End2
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/CTRl_Main/Ctrl_Pelvis/Ctrl_Spline_01/Ctrl_Spline_02/Epaule_Gauche/Coudes_Gauche/Poignet_Gauche/Majeur_Gauche
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/CTRl_Main/Ctrl_Pelvis/Ctrl_Spline_01/Ctrl_Spline_02/Epaule_Gauche/Coudes_Gauche/Poignet_Gauche/Majeur_Gauche/Majeur_Gauche_End
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/CTRl_Main/Ctrl_Pelvis/Ctrl_Spline_01/Ctrl_Spline_02/Epaule_Gauche/Coudes_Gauche/Poignet_Gauche/Petit_Gauche
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/CTRl_Main/Ctrl_Pelvis/Ctrl_Spline_01/Ctrl_Spline_02/Epaule_Gauche/Coudes_Gauche/Poignet_Gauche/Petit_Gauche/Petit_Gauche_ENd
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/CTRl_Main/Ctrl_Pelvis/Ctrl_Spline_01/Ctrl_Spline_02/Epaule_Gauche/Coudes_Gauche/Poignet_Gauche/Pouce_Gauche
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/CTRl_Main/Ctrl_Pelvis/Ctrl_Spline_01/Ctrl_Spline_02/Epaule_Gauche/Coudes_Gauche/Poignet_Gauche/Pouce_Gauche/Pouces_Gauche_End
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/CTRl_Main/Ctrl_Pied_Droit
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/CTRl_Main/Ctrl_Pied_Droit/Ctrl_Genoux_Droit
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/CTRl_Main/Ctrl_Pied_Droit/Right_Ankle_Pivot
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/CTRl_Main/Ctrl_Pied_Droit/Right_Ankle_Pivot/Right_Toe_Pivot
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/CTRl_Main/Ctrl_Pied_Droit/Right_Ankle_Pivot/Right_Toe_Pivot/Swivel_Pivot_Right
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/CTRl_Main/Ctrl_Pied_Droit/Right_Ankle_Pivot/Right_Toe_Pivot/Swivel_Pivot_Right/Heel_Pivot_Right
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/CTRl_Main/Ctrl_Pied_Droit/Right_Ankle_Pivot/Right_Toe_Pivot/Swivel_Pivot_Right/Heel_Pivot_Right/Cheville_IK_Right
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/CTRl_Main/Ctrl_Pied_Droit/Right_Ankle_Pivot/Right_Toe_Pivot/Swivel_Pivot_Right/Right_ToeTap_Pivot
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/CTRl_Main/Ctrl_Pied_Droit/Right_Ankle_Pivot/Right_Toe_Pivot/Swivel_Pivot_Right/Right_ToeTap_Pivot/Ball_Ik_Right
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/CTRl_Main/Ctrl_Pied_Droit/Right_Ankle_Pivot/Right_Toe_Pivot/Swivel_Pivot_Right/Right_ToeTap_Pivot/Toe_IK_Right
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/CTRl_Main/Ctrl_Pied_Gauche
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/CTRl_Main/Ctrl_Pied_Gauche/Left_Ankle_pivot
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/CTRl_Main/Ctrl_Pied_Gauche/Left_Ankle_pivot/Left_ToePivot
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/CTRl_Main/Ctrl_Pied_Gauche/Left_Ankle_pivot/Left_ToePivot/L_Swivel_pivot
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/CTRl_Main/Ctrl_Pied_Gauche/Left_Ankle_pivot/Left_ToePivot/L_Swivel_pivot/L_HeelPeel_Pivot
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/CTRl_Main/Ctrl_Pied_Gauche/Left_Ankle_pivot/Left_ToePivot/L_Swivel_pivot/L_HeelPeel_Pivot/cheville_ankle_IK
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/CTRl_Main/Ctrl_Pied_Gauche/Left_Ankle_pivot/Left_ToePivot/L_Swivel_pivot/Left_ToeTap_Pivot
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/CTRl_Main/Ctrl_Pied_Gauche/Left_Ankle_pivot/Left_ToePivot/L_Swivel_pivot/Left_ToeTap_Pivot/Ball_IK_left
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/CTRl_Main/Ctrl_Pied_Gauche/Left_Ankle_pivot/Left_ToePivot/L_Swivel_pivot/Left_ToeTap_Pivot/Toe_IK_left
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/CTRl_Main/Ctrl_Pied_Gauche/Left_knee_Ctrl
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Geometrie
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Geometrie/baton
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Geometrie/Cape
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Geometrie/epingle
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Geometrie/Membres
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Geometrie/Plastron_electro
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Geometrie/tete
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Geometrie/Tissu_devant
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Geometrie/Tissu_droite
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Geometrie/Tissu_droite1
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Skeleton
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Skeleton/Bassin
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Skeleton/Bassin/Colonne_01
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Skeleton/Bassin/Colonne_01/Colonne_02
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Skeleton/Bassin/Colonne_01/Colonne_02/Colonne_03
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Skeleton/Bassin/Colonne_01/Colonne_02/Colonne_03/Colonne_04
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Skeleton/Bassin/Colonne_01/Colonne_02/Colonne_03/Colonne_04/Epaule_Droite
+          1
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Skeleton/Bassin/Colonne_01/Colonne_02/Colonne_03/Colonne_04/Epaule_Droite
+          1/Coude_Droite
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Skeleton/Bassin/Colonne_01/Colonne_02/Colonne_03/Colonne_04/Epaule_Droite
+          1/Coude_Droite/Poignet_Droite
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Skeleton/Bassin/Colonne_01/Colonne_02/Colonne_03/Colonne_04/Epaule_Droite
+          1/Coude_Droite/Poignet_Droite/Index_Droite
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Skeleton/Bassin/Colonne_01/Colonne_02/Colonne_03/Colonne_04/Epaule_Droite
+          1/Coude_Droite/Poignet_Droite/Index_Droite/Index__arti_Droite
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Skeleton/Bassin/Colonne_01/Colonne_02/Colonne_03/Colonne_04/Epaule_Droite
+          1/Coude_Droite/Poignet_Droite/Index_Droite/Index__arti_Droite/Index_Droite_End
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Skeleton/Bassin/Colonne_01/Colonne_02/Colonne_03/Colonne_04/Epaule_Droite
+          1/Coude_Droite/Poignet_Droite/Majeur_Droite
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Skeleton/Bassin/Colonne_01/Colonne_02/Colonne_03/Colonne_04/Epaule_Droite
+          1/Coude_Droite/Poignet_Droite/Majeur_Droite/Majeur_art_Droite
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Skeleton/Bassin/Colonne_01/Colonne_02/Colonne_03/Colonne_04/Epaule_Droite
+          1/Coude_Droite/Poignet_Droite/Majeur_Droite/Majeur_art_Droite/Majeur_Droite_End
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Skeleton/Bassin/Colonne_01/Colonne_02/Colonne_03/Colonne_04/Epaule_Droite
+          1/Coude_Droite/Poignet_Droite/Petit_Droite
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Skeleton/Bassin/Colonne_01/Colonne_02/Colonne_03/Colonne_04/Epaule_Droite
+          1/Coude_Droite/Poignet_Droite/Petit_Droite/Petit_art_Droite
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Skeleton/Bassin/Colonne_01/Colonne_02/Colonne_03/Colonne_04/Epaule_Droite
+          1/Coude_Droite/Poignet_Droite/Petit_Droite/Petit_art_Droite/Petit_Droite_End
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Skeleton/Bassin/Colonne_01/Colonne_02/Colonne_03/Colonne_04/Epaule_Droite
+          1/Coude_Droite/Poignet_Droite/Pouce_Droite
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Skeleton/Bassin/Colonne_01/Colonne_02/Colonne_03/Colonne_04/Epaule_Droite
+          1/Coude_Droite/Poignet_Droite/Pouce_Droite/arti_Pouce_Droite
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Skeleton/Bassin/Colonne_01/Colonne_02/Colonne_03/Colonne_04/Epaule_Droite
+          1/Coude_Droite/Poignet_Droite/Pouce_Droite/arti_Pouce_Droite/Pouces_Droite_End
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Skeleton/Bassin/Colonne_01/Colonne_02/Colonne_03/Colonne_04/Epaule_Gauche
+          1
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Skeleton/Bassin/Colonne_01/Colonne_02/Colonne_03/Colonne_04/Epaule_Gauche
+          1/Coude_Gauche
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Skeleton/Bassin/Colonne_01/Colonne_02/Colonne_03/Colonne_04/Epaule_Gauche
+          1/Coude_Gauche/Poignet_Gauche 1
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Skeleton/Bassin/Colonne_01/Colonne_02/Colonne_03/Colonne_04/Epaule_Gauche
+          1/Coude_Gauche/Poignet_Gauche 1/Index_Gauche
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Skeleton/Bassin/Colonne_01/Colonne_02/Colonne_03/Colonne_04/Epaule_Gauche
+          1/Coude_Gauche/Poignet_Gauche 1/Index_Gauche/Index__arti_Gauche
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Skeleton/Bassin/Colonne_01/Colonne_02/Colonne_03/Colonne_04/Epaule_Gauche
+          1/Coude_Gauche/Poignet_Gauche 1/Index_Gauche/Index__arti_Gauche/Index_Gauche_End
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Skeleton/Bassin/Colonne_01/Colonne_02/Colonne_03/Colonne_04/Epaule_Gauche
+          1/Coude_Gauche/Poignet_Gauche 1/Majeur_Gauche 1
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Skeleton/Bassin/Colonne_01/Colonne_02/Colonne_03/Colonne_04/Epaule_Gauche
+          1/Coude_Gauche/Poignet_Gauche 1/Majeur_Gauche 1/Majeur_art_Gauche
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Skeleton/Bassin/Colonne_01/Colonne_02/Colonne_03/Colonne_04/Epaule_Gauche
+          1/Coude_Gauche/Poignet_Gauche 1/Majeur_Gauche 1/Majeur_art_Gauche/Majeur_Gauche_End
+          1
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Skeleton/Bassin/Colonne_01/Colonne_02/Colonne_03/Colonne_04/Epaule_Gauche
+          1/Coude_Gauche/Poignet_Gauche 1/Petit_Gauche 1
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Skeleton/Bassin/Colonne_01/Colonne_02/Colonne_03/Colonne_04/Epaule_Gauche
+          1/Coude_Gauche/Poignet_Gauche 1/Petit_Gauche 1/Petit_art_Gauche
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Skeleton/Bassin/Colonne_01/Colonne_02/Colonne_03/Colonne_04/Epaule_Gauche
+          1/Coude_Gauche/Poignet_Gauche 1/Petit_Gauche 1/Petit_art_Gauche/Petit_Gauche_End
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Skeleton/Bassin/Colonne_01/Colonne_02/Colonne_03/Colonne_04/Epaule_Gauche
+          1/Coude_Gauche/Poignet_Gauche 1/Pouce_Gauche 1
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Skeleton/Bassin/Colonne_01/Colonne_02/Colonne_03/Colonne_04/Epaule_Gauche
+          1/Coude_Gauche/Poignet_Gauche 1/Pouce_Gauche 1/arti_Pouce_Gauche
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Skeleton/Bassin/Colonne_01/Colonne_02/Colonne_03/Colonne_04/Epaule_Gauche
+          1/Coude_Gauche/Poignet_Gauche 1/Pouce_Gauche 1/arti_Pouce_Gauche/Pouces_Gauche_End
+          1
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Skeleton/Bassin/Colonne_01/Colonne_02/Colonne_03/Colonne_04/Tete_Base
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Skeleton/Bassin/Colonne_01/Colonne_02/Colonne_03/Colonne_04/Tete_Base/Tete_End
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Skeleton/Bassin_02
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Skeleton/Bassin_02/Jambes_Droite
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Skeleton/Bassin_02/Jambes_Droite/Genoux_Droite
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Skeleton/Bassin_02/Jambes_Droite/Genoux_Droite/cheville_Droite
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Skeleton/Bassin_02/Jambes_Droite/Genoux_Droite/cheville_Droite/Pied_Derriere_Droite
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Skeleton/Bassin_02/Jambes_Droite/Genoux_Droite/cheville_Droite/Pied_Droite
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Skeleton/Bassin_02/Jambes_Droite/Genoux_Droite/cheville_Droite/Pied_Droite/Pied_Droite_End
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Skeleton/Bassin_02/Jambes_Gauche
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Skeleton/Bassin_02/Jambes_Gauche/Genoux_Gauche
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Skeleton/Bassin_02/Jambes_Gauche/Genoux_Gauche/cheville_Gauche
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Skeleton/Bassin_02/Jambes_Gauche/Genoux_Gauche/cheville_Gauche/Pied_Derriere_Gauche
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Skeleton/Bassin_02/Jambes_Gauche/Genoux_Gauche/cheville_Gauche/Pied_Gauche
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Skeleton/Bassin_02/Jambes_Gauche/Genoux_Gauche/cheville_Gauche/Pied_Gauche/Pied_Gauche_End
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Skeleton/Cape_01
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Skeleton/Cape_01/Cape_02
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Skeleton/Cape_01/Cape_02/Cape_03
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Skeleton/Cape_01/Cape_02/Cape_03/Cape_04
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Skeleton/Cape_01/Cape_02/Cape_03/Cape_04/Cape_05
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Skeleton/Cape_01/Cape_02/Cape_03/Cape_04/Cape_05/Cape_06
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Skeleton/Cape_01/Cape_02/Cape_03/Cape_04/Cape_05/Cape_06/Cape_07
+        weight: 1
+      - path: ElectroCasteur_Scale_Grp/Skeleton/Cape_01/Cape_02/Cape_03/Cape_04/Cape_05/Cape_06/Cape_07/Cape_08
+        weight: 1
+      - path: left
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

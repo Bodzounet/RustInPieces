@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: d7045e5cfe8b672448ce8342e4e8719f
+timeCreated: 1479988818
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Base_head
+    100002: Cou
+    100004: Coude_D
+    100006: Coude_Droite
+    100008: Coude_G
+    100010: Coude_Gauche
+    100012: Ctrl_Grp
+    100014: Ctrl_Jambes_D
+    100016: Ctrl_Jambes_G
+    100018: Ctrl_Pelvis
+    100020: epaule_D
+    100022: Epaule_Droite
+    100024: Epaule_G
+    100026: Epaule_Gauche
+    100028: Genoux_D
+    100030: Genoux_Droite
+    100032: Genoux_G
+    100034: Genoux_Gauche
+    100036: Geometrie
+    100038: Jambes_Droite
+    100040: Jambes_Gauche
+    100042: Main_D
+    100044: Main_Droite
+    100046: Main_G
+    100048: Main_Gauche
+    100050: //RootNode
+    100052: Pelvis
+    100054: Pied_D
+    100056: Pied_Droite
+    100058: Pied_G
+    100060: Pied_Gauche
+    100062: Rig
+    100064: Robot_Minion
+    100066: Spline_01
+    100068: Spline_02
+    100070: Tete
+    100072: Up_Head_End
+    400000: Base_head
+    400002: Cou
+    400004: Coude_D
+    400006: Coude_Droite
+    400008: Coude_G
+    400010: Coude_Gauche
+    400012: Ctrl_Grp
+    400014: Ctrl_Jambes_D
+    400016: Ctrl_Jambes_G
+    400018: Ctrl_Pelvis
+    400020: epaule_D
+    400022: Epaule_Droite
+    400024: Epaule_G
+    400026: Epaule_Gauche
+    400028: Genoux_D
+    400030: Genoux_Droite
+    400032: Genoux_G
+    400034: Genoux_Gauche
+    400036: Geometrie
+    400038: Jambes_Droite
+    400040: Jambes_Gauche
+    400042: Main_D
+    400044: Main_Droite
+    400046: Main_G
+    400048: Main_Gauche
+    400050: //RootNode
+    400052: Pelvis
+    400054: Pied_D
+    400056: Pied_Droite
+    400058: Pied_G
+    400060: Pied_Gauche
+    400062: Rig
+    400064: Robot_Minion
+    400066: Spline_01
+    400068: Spline_02
+    400070: Tete
+    400072: Up_Head_End
+    4300000: Robot_Minion
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Robot_Minion
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

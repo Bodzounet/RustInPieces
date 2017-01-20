@@ -1,0 +1,358 @@
+fileFormatVersion: 2
+guid: 9bc14c902ca733f4b8c10db649d9029f
+timeCreated: 1472932638
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arm_01_Ctrl_D
+    100002: Arm_01_Ctrl_G
+    100004: Arm_01_D
+    100006: Arm_01_G
+    100008: Arm_02_Ctrl_D
+    100010: Arm_02_Ctrl_G1
+    100012: Arm_02_D
+    100014: Arm_02_G
+    100016: Arm_03_Ctrl_D
+    100018: Arm_03_Ctrl_G2
+    100020: Arm_03_D
+    100022: Arm_03_G
+    100024: Arm_04_Ctrl_D
+    100026: Arm_04_Ctrl_G
+    100028: Arm_05_Ctrl_D
+    100030: Arm_05_Ctrl_G
+    100032: Arm_06_Ctrl_D
+    100034: Arm_06_Ctrl_G
+    100036: Arm_07_Ctrl_D
+    100038: Arm_07_Ctrl_G
+    100040: Arm_08_Ctrl_D
+    100042: Arm_08_Ctrl_G
+    100044: Arm_09_Ctrl_D
+    100046: Arm_09_Ctrl_G
+    100048: Arm_10_Ctrl_D
+    100050: Arm_10_Ctrl_G
+    100052: Arm_D
+    100054: Arm_G
+    100056: Armure_01_Corps
+    100058: back
+    100060: Corps
+    100062: Ctrl_footmen
+    100064: Ctrtl_Groupe
+    100066: Doigts_01_01_D
+    100068: Doigts_01_01_G
+    100070: Doigts_01_02_D
+    100072: Doigts_01_02_G
+    100074: Doigts_02_01_D
+    100076: Doigts_02_01_G
+    100078: Doigts_02_02_D
+    100080: Doigts_02_02_G
+    100082: Geometrie
+    100084: Jambes_01_D
+    100086: Jambes_01_D 1
+    100088: Jambes_01_G
+    100090: Jambes_01_G 1
+    100092: Jambes_02_D
+    100094: Jambes_02_D 1
+    100096: Jambes_02_G
+    100098: Jambes_02_G 1
+    100100: Jambes_03_D
+    100102: Jambes_03_G
+    100104: Jambes_04_D
+    100106: Jambes_04_G
+    100108: //RootNode
+    100110: Pouce_01_D
+    100112: Pouce_01_G
+    100114: Pouce_02_D
+    100116: Pouce_02_G
+    100118: pSphere1
+    100120: Robot_armure
+    100122: Scale_Grp_Ctrl
+    100124: Skeleton
+    400000: Arm_01_Ctrl_D
+    400002: Arm_01_Ctrl_G
+    400004: Arm_01_D
+    400006: Arm_01_G
+    400008: Arm_02_Ctrl_D
+    400010: Arm_02_Ctrl_G1
+    400012: Arm_02_D
+    400014: Arm_02_G
+    400016: Arm_03_Ctrl_D
+    400018: Arm_03_Ctrl_G2
+    400020: Arm_03_D
+    400022: Arm_03_G
+    400024: Arm_04_Ctrl_D
+    400026: Arm_04_Ctrl_G
+    400028: Arm_05_Ctrl_D
+    400030: Arm_05_Ctrl_G
+    400032: Arm_06_Ctrl_D
+    400034: Arm_06_Ctrl_G
+    400036: Arm_07_Ctrl_D
+    400038: Arm_07_Ctrl_G
+    400040: Arm_08_Ctrl_D
+    400042: Arm_08_Ctrl_G
+    400044: Arm_09_Ctrl_D
+    400046: Arm_09_Ctrl_G
+    400048: Arm_10_Ctrl_D
+    400050: Arm_10_Ctrl_G
+    400052: Arm_D
+    400054: Arm_G
+    400056: Armure_01_Corps
+    400058: back
+    400060: Corps
+    400062: Ctrl_footmen
+    400064: Ctrtl_Groupe
+    400066: Doigts_01_01_D
+    400068: Doigts_01_01_G
+    400070: Doigts_01_02_D
+    400072: Doigts_01_02_G
+    400074: Doigts_02_01_D
+    400076: Doigts_02_01_G
+    400078: Doigts_02_02_D
+    400080: Doigts_02_02_G
+    400082: Geometrie
+    400084: Jambes_01_D
+    400086: Jambes_01_D 1
+    400088: Jambes_01_G
+    400090: Jambes_01_G 1
+    400092: Jambes_02_D
+    400094: Jambes_02_D 1
+    400096: Jambes_02_G
+    400098: Jambes_02_G 1
+    400100: Jambes_03_D
+    400102: Jambes_03_G
+    400104: Jambes_04_D
+    400106: Jambes_04_G
+    400108: //RootNode
+    400110: Pouce_01_D
+    400112: Pouce_01_G
+    400114: Pouce_02_D
+    400116: Pouce_02_G
+    400118: pSphere1
+    400120: Robot_armure
+    400122: Scale_Grp_Ctrl
+    400124: Skeleton
+    2300000: pSphere1
+    3300000: pSphere1
+    4300000: Armure_01_Corps
+    4300002: pSphere1
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Armure_01_Corps
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 23
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: back
+        weight: 1
+      - path: pSphere1
+        weight: 1
+      - path: Robot_armure
+        weight: 1
+      - path: Robot_armure/Ctrtl_Groupe
+        weight: 1
+      - path: Robot_armure/Ctrtl_Groupe/Scale_Grp_Ctrl
+        weight: 1
+      - path: Robot_armure/Ctrtl_Groupe/Scale_Grp_Ctrl/Arm_01_Ctrl_D
+        weight: 1
+      - path: Robot_armure/Ctrtl_Groupe/Scale_Grp_Ctrl/Arm_01_Ctrl_D/Arm_02_Ctrl_D
+        weight: 1
+      - path: Robot_armure/Ctrtl_Groupe/Scale_Grp_Ctrl/Arm_01_Ctrl_D/Arm_02_Ctrl_D/Arm_03_Ctrl_D
+        weight: 1
+      - path: Robot_armure/Ctrtl_Groupe/Scale_Grp_Ctrl/Arm_01_Ctrl_D/Arm_02_Ctrl_D/Arm_03_Ctrl_D/Arm_04_Ctrl_D
+        weight: 1
+      - path: Robot_armure/Ctrtl_Groupe/Scale_Grp_Ctrl/Arm_01_Ctrl_D/Arm_02_Ctrl_D/Arm_03_Ctrl_D/Arm_04_Ctrl_D/Arm_05_Ctrl_D
+        weight: 1
+      - path: Robot_armure/Ctrtl_Groupe/Scale_Grp_Ctrl/Arm_01_Ctrl_D/Arm_02_Ctrl_D/Arm_03_Ctrl_D/Arm_04_Ctrl_D/Arm_05_Ctrl_D/Arm_08_Ctrl_D
+        weight: 1
+      - path: Robot_armure/Ctrtl_Groupe/Scale_Grp_Ctrl/Arm_01_Ctrl_D/Arm_02_Ctrl_D/Arm_03_Ctrl_D/Arm_04_Ctrl_D/Arm_06_Ctrl_D
+        weight: 1
+      - path: Robot_armure/Ctrtl_Groupe/Scale_Grp_Ctrl/Arm_01_Ctrl_D/Arm_02_Ctrl_D/Arm_03_Ctrl_D/Arm_04_Ctrl_D/Arm_06_Ctrl_D/Arm_07_Ctrl_D
+        weight: 1
+      - path: Robot_armure/Ctrtl_Groupe/Scale_Grp_Ctrl/Arm_01_Ctrl_D/Arm_02_Ctrl_D/Arm_03_Ctrl_D/Arm_04_Ctrl_D/Arm_09_Ctrl_D
+        weight: 1
+      - path: Robot_armure/Ctrtl_Groupe/Scale_Grp_Ctrl/Arm_01_Ctrl_D/Arm_02_Ctrl_D/Arm_03_Ctrl_D/Arm_04_Ctrl_D/Arm_09_Ctrl_D/Arm_10_Ctrl_D
+        weight: 1
+      - path: Robot_armure/Ctrtl_Groupe/Scale_Grp_Ctrl/Arm_01_Ctrl_G
+        weight: 1
+      - path: Robot_armure/Ctrtl_Groupe/Scale_Grp_Ctrl/Arm_01_Ctrl_G/Arm_02_Ctrl_G1
+        weight: 1
+      - path: Robot_armure/Ctrtl_Groupe/Scale_Grp_Ctrl/Arm_01_Ctrl_G/Arm_02_Ctrl_G1/Arm_03_Ctrl_G2
+        weight: 1
+      - path: Robot_armure/Ctrtl_Groupe/Scale_Grp_Ctrl/Arm_01_Ctrl_G/Arm_02_Ctrl_G1/Arm_03_Ctrl_G2/Arm_04_Ctrl_G
+        weight: 1
+      - path: Robot_armure/Ctrtl_Groupe/Scale_Grp_Ctrl/Arm_01_Ctrl_G/Arm_02_Ctrl_G1/Arm_03_Ctrl_G2/Arm_04_Ctrl_G/Arm_05_Ctrl_G
+        weight: 1
+      - path: Robot_armure/Ctrtl_Groupe/Scale_Grp_Ctrl/Arm_01_Ctrl_G/Arm_02_Ctrl_G1/Arm_03_Ctrl_G2/Arm_04_Ctrl_G/Arm_05_Ctrl_G/Arm_08_Ctrl_G
+        weight: 1
+      - path: Robot_armure/Ctrtl_Groupe/Scale_Grp_Ctrl/Arm_01_Ctrl_G/Arm_02_Ctrl_G1/Arm_03_Ctrl_G2/Arm_04_Ctrl_G/Arm_06_Ctrl_G
+        weight: 1
+      - path: Robot_armure/Ctrtl_Groupe/Scale_Grp_Ctrl/Arm_01_Ctrl_G/Arm_02_Ctrl_G1/Arm_03_Ctrl_G2/Arm_04_Ctrl_G/Arm_06_Ctrl_G/Arm_07_Ctrl_G
+        weight: 1
+      - path: Robot_armure/Ctrtl_Groupe/Scale_Grp_Ctrl/Arm_01_Ctrl_G/Arm_02_Ctrl_G1/Arm_03_Ctrl_G2/Arm_04_Ctrl_G/Arm_09_Ctrl_G
+        weight: 1
+      - path: Robot_armure/Ctrtl_Groupe/Scale_Grp_Ctrl/Arm_01_Ctrl_G/Arm_02_Ctrl_G1/Arm_03_Ctrl_G2/Arm_04_Ctrl_G/Arm_09_Ctrl_G/Arm_10_Ctrl_G
+        weight: 1
+      - path: Robot_armure/Ctrtl_Groupe/Scale_Grp_Ctrl/Ctrl_footmen
+        weight: 1
+      - path: Robot_armure/Ctrtl_Groupe/Scale_Grp_Ctrl/Jambes_01_D
+        weight: 1
+      - path: Robot_armure/Ctrtl_Groupe/Scale_Grp_Ctrl/Jambes_01_D/Jambes_02_D
+        weight: 1
+      - path: Robot_armure/Ctrtl_Groupe/Scale_Grp_Ctrl/Jambes_02_G
+        weight: 1
+      - path: Robot_armure/Ctrtl_Groupe/Scale_Grp_Ctrl/Jambes_02_G/Jambes_01_G 1
+        weight: 1
+      - path: Robot_armure/Geometrie
+        weight: 1
+      - path: Robot_armure/Geometrie/Armure_01_Corps
+        weight: 1
+      - path: Robot_armure/Skeleton
+        weight: 1
+      - path: Robot_armure/Skeleton/Corps
+        weight: 1
+      - path: Robot_armure/Skeleton/Corps/Arm_D
+        weight: 1
+      - path: Robot_armure/Skeleton/Corps/Arm_D/Arm_01_D
+        weight: 1
+      - path: Robot_armure/Skeleton/Corps/Arm_D/Arm_01_D/Arm_02_D
+        weight: 1
+      - path: Robot_armure/Skeleton/Corps/Arm_D/Arm_01_D/Arm_02_D/Arm_03_D
+        weight: 1
+      - path: Robot_armure/Skeleton/Corps/Arm_D/Arm_01_D/Arm_02_D/Arm_03_D/Doigts_01_01_D
+        weight: 1
+      - path: Robot_armure/Skeleton/Corps/Arm_D/Arm_01_D/Arm_02_D/Arm_03_D/Doigts_01_01_D/Doigts_01_02_D
+        weight: 1
+      - path: Robot_armure/Skeleton/Corps/Arm_D/Arm_01_D/Arm_02_D/Arm_03_D/Doigts_02_01_D
+        weight: 1
+      - path: Robot_armure/Skeleton/Corps/Arm_D/Arm_01_D/Arm_02_D/Arm_03_D/Doigts_02_01_D/Doigts_02_02_D
+        weight: 1
+      - path: Robot_armure/Skeleton/Corps/Arm_D/Arm_01_D/Arm_02_D/Arm_03_D/Pouce_01_D
+        weight: 1
+      - path: Robot_armure/Skeleton/Corps/Arm_D/Arm_01_D/Arm_02_D/Arm_03_D/Pouce_01_D/Pouce_02_D
+        weight: 1
+      - path: Robot_armure/Skeleton/Corps/Arm_G
+        weight: 1
+      - path: Robot_armure/Skeleton/Corps/Arm_G/Arm_01_G
+        weight: 1
+      - path: Robot_armure/Skeleton/Corps/Arm_G/Arm_01_G/Arm_02_G
+        weight: 1
+      - path: Robot_armure/Skeleton/Corps/Arm_G/Arm_01_G/Arm_02_G/Arm_03_G
+        weight: 1
+      - path: Robot_armure/Skeleton/Corps/Arm_G/Arm_01_G/Arm_02_G/Arm_03_G/Doigts_01_01_G
+        weight: 1
+      - path: Robot_armure/Skeleton/Corps/Arm_G/Arm_01_G/Arm_02_G/Arm_03_G/Doigts_01_01_G/Doigts_01_02_G
+        weight: 1
+      - path: Robot_armure/Skeleton/Corps/Arm_G/Arm_01_G/Arm_02_G/Arm_03_G/Doigts_02_01_G
+        weight: 1
+      - path: Robot_armure/Skeleton/Corps/Arm_G/Arm_01_G/Arm_02_G/Arm_03_G/Doigts_02_01_G/Doigts_02_02_G
+        weight: 1
+      - path: Robot_armure/Skeleton/Corps/Arm_G/Arm_01_G/Arm_02_G/Arm_03_G/Pouce_01_G
+        weight: 1
+      - path: Robot_armure/Skeleton/Corps/Arm_G/Arm_01_G/Arm_02_G/Arm_03_G/Pouce_01_G/Pouce_02_G
+        weight: 1
+      - path: Robot_armure/Skeleton/Corps/Jambes_01_D 1
+        weight: 1
+      - path: Robot_armure/Skeleton/Corps/Jambes_01_D 1/Jambes_02_D 1
+        weight: 1
+      - path: Robot_armure/Skeleton/Corps/Jambes_01_D 1/Jambes_02_D 1/Jambes_03_D
+        weight: 1
+      - path: Robot_armure/Skeleton/Corps/Jambes_01_D 1/Jambes_02_D 1/Jambes_03_D/Jambes_04_D
+        weight: 1
+      - path: Robot_armure/Skeleton/Corps/Jambes_01_G
+        weight: 1
+      - path: Robot_armure/Skeleton/Corps/Jambes_01_G/Jambes_02_G 1
+        weight: 1
+      - path: Robot_armure/Skeleton/Corps/Jambes_01_G/Jambes_02_G 1/Jambes_03_G
+        weight: 1
+      - path: Robot_armure/Skeleton/Corps/Jambes_01_G/Jambes_02_G 1/Jambes_03_G/Jambes_04_G
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
